@@ -1,0 +1,48 @@
+body {
+  font-family: 'Poppins', sans-serif;
+  background-color: #fff;
+  margin: 0;
+  padding: 0;
+  text-align: center;
+  color: #333;
+}
+
+/*==============================
+    Thankyou card
+===============================*/
+.thankyou-container {
+  max-width: 600px;
+  margin: 100px auto;
+  padding: 20px;
+}
+
+.thankyou-icon {
+  width: 278px;
+  margin-bottom: 20px;
+}
+
+h1 {
+  font-size: 40px;
+  font-weight: 700;
+  color: #131D4F;
+}
+
+p {
+  font-size: 20px;
+  margin: 8px 0;
+}
+
+.btn-back {
+  display: inline-block;
+  margin-top: 30px;
+  padding: 10px 20px;
+  background-color: #131D4F;
+  color: #fff;
+  border-radius: 6px;
+  text-decoration: none;
+  transition: background 0.3s;
+}
+
+.btn-back:hover {
+  background-color: #142446;
+}
